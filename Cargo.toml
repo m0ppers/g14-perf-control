@@ -1,6 +1,6 @@
 [package]
 name = "g14-perf-control"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andreas Streichardt <andreas@mop.koeln>"]
 edition = "2018"
 
